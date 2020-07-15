@@ -16,7 +16,7 @@ $ npm install -g serverless
 $ npm install -g nodemon
 ```
 
-Run run it on local environment
+Run it on local environment
 
 ```
 $ npm install serverless-offline --save-dev
